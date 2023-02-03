@@ -1,0 +1,23 @@
+git config
+git clone
+ssh-keygen
+git pull
+git fetch
+git add
+git commit 
+git status
+git push
+git merge
+git rebase
+git reset
+git revert
+git chery-pick
+git stash
+git squash
+git branch
+git checkout
+git checkout -b
+git branch -D
+git push --delete <branchname>
+git ls
+how to resolve git conflicts
